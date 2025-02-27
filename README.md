@@ -1,6 +1,6 @@
 ---
 title: "Project 1"
-author: "GROUP MEMBERS"
+author: "Alexander Ge, Harrison Hutchings, Skye Chao"
 output: html_document
 ---
 
